@@ -1,0 +1,93 @@
+p
+{
+	line-height:30px;
+	word-spacing:2.5px;
+	font-size:20px;
+}
+
+
+
+h1
+{
+	font-size:48px;
+	color:brown;
+}
+#content
+{
+	background-color:pink;
+	height:380px;
+	width:48%;
+	float:right;
+	margin-left:10px;
+}
+#para1
+{
+	word-spacing:1.5px;
+	
+}
+#content1
+{
+	margin-right:10px;
+	margin-left:10px;
+	color:white;
+}
+#content2
+{
+	margin-left:20px;
+	margin-right:10px;
+	word-spacing:1.9px;
+	color:blue;
+	line-height:22px;
+}
+#footer
+{
+	background-color:green;
+	height:15px;
+}
+#paragraph
+{
+	word-spacing:10px;
+	line-height:30px;
+	font-size:20px;
+}
+#great
+{
+	background-color:green;
+	height:15px;
+}
+h2
+{
+	font-size:32px;
+}
+#image
+{
+	background-color:white;
+	height:420px;
+	width:50%;
+	float:right;
+}
+dt
+{
+	margin-top:100px;
+	margin-left:40px;
+	margin-right:20px;
+	font-size:35px;
+	color:rgb(0, 255, 128);
+	word-spacing:2.5px;
+	line-height:50px;
+}
+dd
+{
+	margin-left:120px;
+	color:blue;
+    margin-bottom:50px;
+	font-size:25px;
+}
+
+
+
+
+
+
+
+

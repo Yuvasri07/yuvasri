@@ -1,0 +1,93 @@
+#banner
+{
+	background-color:green;
+	height:8px;
+}
+
+
+
+
+#content
+{
+	background-color:white;
+	width:73%;
+	height:600px;
+	float:left;
+}
+#content1
+{
+	background-color:white;
+	width:75%;
+	height:200px;
+	float:right;
+	margin-top:20px;
+}
+h2
+{
+	font-size:30px;
+	margin-left:10px;
+	color:blue;
+}
+#content
+{
+	
+	font-size:20px;
+	word-spacing:1.2px;
+	line-height:30px;
+}#para1
+{
+	margin-left:15px;
+	margin-right:10px;
+
+}
+h3
+{
+    margin-top:20px;
+	clear:both;
+	font-size:32px;
+	margin-left:10px;
+	color:blue;
+}
+#para2{
+		margin-left:15px;
+font-size:20px;
+margin-right:15px;
+word-spacing:1.3px;
+line-height:30px;	
+}
+#content3
+{
+	float:left;
+	width:15%;
+    height:150px;
+}
+#content4
+{
+	margin-left:15px;
+	word-spacing:1.3px;
+	margin-right:15px;
+	line-height:30px;
+	font-size:20px;
+}
+#content5
+{
+	background-color:white;
+	height:330px;
+	width:50%;
+	float:right;
+}
+#country
+{
+	font-size:20px;
+	word-spacing:1.3px;
+	line-height:30px;
+}	
+h4
+{
+	clear:both;
+}#footer
+{
+	background-color:green;
+	height:8px;
+}	
+
